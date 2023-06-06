@@ -1,0 +1,7 @@
+C:\zWork\C#\Task06.06\Task06.06\bin\Debug\Task06._06.exe
+C:\zWork\C#\Task06.06\Task06.06\bin\Debug\Task06._06.pdb
+C:\zWork\C#\Task06.06\Task06.06\obj\Debug\Task06.06.csproj.AssemblyReference.cache
+C:\zWork\C#\Task06.06\Task06.06\obj\Debug\Task06.06.csproj.SuggestedBindingRedirects.cache
+C:\zWork\C#\Task06.06\Task06.06\obj\Debug\Task06.06.csproj.CoreCompileInputs.cache
+C:\zWork\C#\Task06.06\Task06.06\obj\Debug\Task06._06.exe
+C:\zWork\C#\Task06.06\Task06.06\obj\Debug\Task06._06.pdb
